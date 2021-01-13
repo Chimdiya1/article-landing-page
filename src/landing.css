@@ -1,0 +1,23 @@
+.page-head {
+  margin: 5rem auto 0 auto;
+  width: 80%;
+}
+
+.page-head .image {
+  width: 50%;
+  max-width: 550px;
+}
+
+.page-info {
+  width: 50%;
+  text-align: right;
+}
+
+.page-title {
+  font-size: 3em;
+  max-width: 350px;
+}
+
+.page-info .btn {
+  max-width: 200px;
+}
